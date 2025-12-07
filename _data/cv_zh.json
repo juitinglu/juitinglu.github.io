@@ -1,0 +1,186 @@
+{
+  "basics": {
+    "name": "呂瑞婷",
+    "email": "jui-ting.lu@loria.fr",
+    "website": "https://juitinglu.github.io",
+    "summary": "洛林大學助教",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "法國南錫"
+    },
+    "profiles": [
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "http://orcid.org/0000-0002-5341-1490"
+      },
+      {
+        "network": "GitHub",
+        "username": "mothorchids",
+        "url": "https://github.com/mothorchids"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jui-ting-lu",
+        "url": "https://www.linkedin.com/in/jui-ting-lu"
+      }
+    ]
+  },
+  "education": [
+        {
+      "area": "計算科學博士",
+      "institution": "里昂國立應用科學學院 (INSA Lyon)",
+      "studyType": "博士",
+      "startDate": "2020",
+      "endDate": "2023",
+      "location": "Lyon, France",
+      "information": "Analyse sans paramètre des surfaces discrètes avec des algorithmes de type plane-probing\n Soutenu le 21/12/2023",
+      "courses": []
+    },
+    {
+      "area": "Diplôme de l'ENSL",
+      "institution": "法國里昂高等師範學校 (ENS de Lyon)",
+      "studyType": "碩士",
+      "startDate": "2016",
+      "endDate": "2020",
+      "location": "法國里昂",
+      "information": "",
+      "courses": []
+    },
+    {
+      "area": "應用數學碩士",
+      "institution": "里昂第一大學 (UCBL)",
+      "studyType": "碩士",
+      "startDate": "2017",
+      "endDate": "2019",
+      "location": "法國里昂",
+      "information": "",
+      "courses": []
+    },
+    {
+      "area": "數學學士",
+      "institution": "里昂第一大學 (UCBL)",
+      "studyType": "學士",
+      "startDate": "2017",
+      "endDate": "2016",
+      "location": "法國里昂",
+      "information": "",
+      "courses": []
+    },
+    {
+      "area": "高等理工學院預備班(數學物理組)",
+      "institution": "Lycée du Parc",
+      "studyType": "CPGE",
+      "startDate": "2013",
+      "endDate": "2016",
+      "location": "法國里昂",
+      "information": "",
+      "courses": []
+    },
+    {
+      "area": "數理資優班",
+      "institution": "臺北市立第一女子高級中學",
+      "studyType": "高中",
+      "startDate": "2010",
+      "endDate": "2013",
+      "location": "臺北市, 台灣",
+      "information": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "程式",
+      "keywords": ["Python", "C++", "MySQL", "R", "Java", "$LaTeX$"]
+    },
+    {
+      "name": "排版",
+      "keywords": ["LaTeX", "Markdown"]
+    },
+  ],
+  "languages": [
+    {
+      "language": "中文",
+      "fluency": "母語"
+    },
+    {
+      "language": "英文",
+      "fluency": "全民英檢中高級、CAE檢定C1"
+    },
+    {
+      "language": "法文",
+      "fluency": "DALF檢定C1"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "A Soft-Robotic Approach to Anthropomorphic Robotic Hand Dexterity",
+      "publisher": "IEEE Access",
+      "releaseDate": "2019-08-02",
+      "website": "https://ieeexplore.ieee.org/document/8786814",
+      "summary": ""
+    },
+    {
+      "name": "A New Lattice-based Plane-probing Algorithm",
+      "publisher": "Discrete Geometry and Mathematical Morphology",
+      "releaseDate": "2022-08-23",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-031-19897-7_29",
+      "summary": ""
+    },
+    {
+      "name": "Delaunay property and proximity results of the L-algorithm for digital plane probing",
+      "publisher": "Theoretical Computer Science",
+      "releaseDate": "2024-10-01",
+      "website": "https://www.sciencedirect.com/science/article/pii/S0304397524003360?via%3Dihub",
+      "summary": ""
+    },
+    {
+      "name": "A 3D Compact Shape Descriptor based on Largest Intersection and Projection Signature",
+      "publisher": "International Workshop on Combinatorial Image Analysis",
+      "releaseDate": "2025-09-24",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-031-19897-7_29",
+      "summary": ""
+    }
+  ],
+  "work": [
+    {
+      "position": "訪問學生",
+      "company": "國家理論中心",
+      "startDate": "2020.03",
+      "endDate": "2020.08",
+      "location": "台灣臺北市",
+      "summary": "在王偉仲教授的 MeDA Lab 學習醫學影像相關知識，同時研究影像比較方法",
+      "courses": []
+    },    
+    {
+      "position": "研究實習",
+      "company": "圖像信息與信息系統實驗室（LIRIS）",
+      "startDate": "2019.10",
+      "endDate": "2020.02",
+      "location": "法國里昂",
+      "summary": "從雕像重建問題，轉化為分析網狀網路上的向量場的性質。 實作相關演算法並進行實驗。",
+      "courses": []
+    },    
+    {
+      "position": "研究實習",
+      "company": "Universitat Pompeu Fabra (UPF）",
+      "startDate": "2019.04",
+      "endDate": "2020.08",
+      "location": "西班牙巴塞隆納",
+      "summary": "用微分方程探討影像比較。",
+      "courses": []
+    },    
+    {
+      "position": "研究實習",
+      "company": "香港大學",
+      "startDate": "2018.06",
+      "endDate": "2018.08",
+      "location": "香港",
+      "summary": "協助仿生機器手的位置模擬計算，成果有發表在 IEEE 上。",
+      "courses": []
+    }
+  ]
+}

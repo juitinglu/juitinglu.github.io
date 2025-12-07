@@ -1,0 +1,271 @@
+{
+  "basics": {
+    "name": "Jui-Ting Lu",
+    "email": "jui-ting.lu@loria.fr",
+    "website": "https://juitinglu.github.io",
+    "summary": "Postdoctoral researcher and teaching fellow at the University of Lorraine. My work explores digital geometry and image processing, with growing interest in quantum computing applications.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Nancy, France"
+    },
+    "profiles": [
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "http://orcid.org/0000-0002-5341-1490"
+      },
+      {
+        "network": "GitHub",
+        "username": "mothorchids",
+        "url": "https://github.com/mothorchids"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jui-ting-lu",
+        "url": "https://www.linkedin.com/in/jui-ting-lu"
+      }
+    ]
+  },
+  "work": [
+    {
+      "position": "Postdoctoral Researcher and Teaching Fellow",
+      "company": "University of Lorraine",
+      "startDate": "2024.10",
+      "endDate": "Present",
+      "location": "Nancy, France",
+      "summary": "Conducting research in digital geometry and image processing while teaching undergraduate and graduate courses in computer science.",
+      "courses": []
+    },
+    {
+      "position": "Research Intern",
+      "company": "National Institute of Informatics",
+      "startDate": "2023.03",
+      "endDate": "2023.09",
+      "location": "Tokyo, Japan",
+      "summary": "Supervised by Akihiro Sugimoto; research conducted alongside the PhD, studying the behavior of a plane-probing type algorithm on a particular ruled digital surface, the hyperboloid.",
+      "courses": []
+    },
+    {
+      "position": "Visiting Student",
+      "company": "MeDA Lab, National Center of Theoretical Science",
+      "startDate": "2020.03",
+      "endDate": "2020.08",
+      "location": "Taipei, Taiwan",
+      "summary": "Worked under the supervision of Prof. Wang Weichung on medical image analysis using deep learning.",
+      "courses": []
+    },
+    {
+      "position": "Research Intern",
+      "company": "Image Processing Group, Pompeu Fabra University",
+      "startDate": "2019.04",
+      "endDate": "2019.08",
+      "location": "Barcelona, Spain",
+      "summary": "Supervised by Prof. Coloma Ballester; studied PDE-based methods for multiscale image comparison.",
+      "courses": []
+    },
+    {
+      "position": "Summer Intern",
+      "company": "Bionics and Control Lab, Hong Kong University",
+      "startDate": "2018.06",
+      "endDate": "2018.08",
+      "location": "Hong Kong",
+      "summary": "Worked under the supervision of Prof Zeng Wang on projects in bionics and control systems.",
+      "courses": []
+    },
+    {
+      "position": "Teaching Intern",
+      "company": "Saint-Just High School",
+      "startDate": "2018.03",
+      "endDate": "2018.04",
+      "location": "Lyon, France",
+      "summary": "Supervised by Yves Le Toullec; taught mathematics to high school students.",
+      "courses": []
+    },
+    {
+      "position": "Research Project Student",
+      "company": "Claude Bernard University Lyon 1",
+      "startDate": "2018.01",
+      "endDate": "2018.06",
+      "location": "Lyon, France",
+      "summary": "Supervised by Prof. Clément Marteau; conducted research on the EM algorithm.",
+      "courses": []
+    },
+    {
+      "position": "Oral Examiner (Colles)",
+      "company": "Parc High School",
+      "startDate": "2018.09",
+      "endDate": "2019.04",
+      "location": "Lyon, France",
+      "summary": "Conducted oral examinations for classes préparatoires students.",
+      "courses": []
+    },
+    {
+      "position": "Research Intern",
+      "company": "Université de Franche-Comté (or relevant affiliation of Hacène Djellout)",
+      "startDate": "2017.06",
+      "endDate": "2017.07",
+      "location": "France",
+      "summary": "Worked under the supervision of Prof. Hacène Djellout; compiled research materials for a project on large deviations theory.",
+      "courses": []
+    },
+    {
+      "position": "Summer Intern",
+      "company": "Academia Sinica: Department of Mathematics",
+      "startDate": "2014.07",
+      "endDate": "2014.08",
+      "location": "Taipei, Taiwan",
+      "summary": "Selected for a six-week internship for undergraduate students; research work archived on the program website.",
+      "courses": []
+    }
+  ],
+  "education": [
+    {
+      "area": "PhD in Computer Science",
+      "institution": "Institut national des sciences appliquées de Lyon",
+      "studyType": "PhD",
+      "startDate": "2020",
+      "endDate": "2023",
+      "location": "Lyon, France",
+      "information": "Parameter-free analysis of digital surfaces with plane-probing algorithms\n Defense date: 21/12/2023",
+      "courses": []
+    },
+    {
+      "area": "ENSL diploma",
+      "institution": "École normale supérieure de Lyon (ENSL)",
+      "studyType": "Master of Mathematics",
+      "startDate": "2016",
+      "endDate": "2020",
+      "location": "Lyon, France",
+      "information": "",
+      "courses": []
+    },
+    {
+      "area": "Master in Applied Mathematics",
+      "institution": "Claude Bernard University Lyon 1",
+      "studyType": "Master",
+      "startDate": "2017",
+      "endDate": "2019",
+      "location": "Lyon, France",
+      "information": "",
+      "courses": []
+    },
+    {
+      "area": "Bachelor of Science in Mathematics",
+      "institution": "Claude Bernard University Lyon 1",
+      "studyType": "BS",
+      "startDate": "2017",
+      "endDate": "2016",
+      "location": "Lyon, France",
+      "information": "",
+      "courses": []
+    },
+    {
+      "area": "Higher School Preparatory Classes (CPGE) MPSI, MP, and MP*",
+      "institution": "Lycée du Parc",
+      "studyType": "CPGE",
+      "startDate": "2013",
+      "endDate": "2016",
+      "location": "Lyon, France",
+      "information": "",
+      "courses": []
+    }
+  ],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Proficiency (CAE C1)"
+    },
+    {
+      "language": "French",
+      "fluency": "Professional Proficiency (DALF C1)"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Elementary proficiency (JLPT N5)"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "A Soft-Robotic Approach to Anthropomorphic Robotic Hand Dexterity",
+      "publisher": "IEEE Access",
+      "releaseDate": "2019-08-02",
+      "website": "https://ieeexplore.ieee.org/document/8786814",
+      "summary": ""
+    },
+    {
+      "name": "A New Lattice-based Plane-probing Algorithm",
+      "publisher": "Discrete Geometry and Mathematical Morphology",
+      "releaseDate": "2022-08-23",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-031-19897-7_29",
+      "summary": ""
+    },
+    {
+      "name": "Delaunay property and proximity results of the L-algorithm for digital plane probing",
+      "publisher": "Theoretical Computer Science",
+      "releaseDate": "2024-10-01",
+      "website": "https://www.sciencedirect.com/science/article/pii/S0304397524003360?via%3Dihub",
+      "summary": ""
+    },
+    {
+      "name": "A 3D Compact Shape Descriptor based on Largest Intersection and Projection Signature",
+      "publisher": "International Workshop on Combinatorial Image Analysis",
+      "releaseDate": "2025-09-24",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-031-19897-7_29",
+      "summary": ""
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Th\u00e9or\u00e8me de Cauchy-Kowalewski",
+      "event": "Week-end de Goutlas",
+      "date": "2016-12-02",
+      "location": "Marcoux, France",
+      "description": ""
+    },
+    {
+      "name": "GDMM2021",
+      "event": "GDMM2021",
+      "date": "2021-03-16",
+      "location": "Villers-l\u00e8s-Nancy, France",
+      "description": ""
+    },
+    {
+      "name": "Surface Geometric Analysis Using the Plane-Probing Algorithm",
+      "event": "JNIM 2022: National Days of the GDR IM",
+      "date": "2022.03.31",
+      "location": "Villeneuve d'Ascq, France",
+      "description": ""
+    },
+    {
+      "name": "Plane-Probing Algorithms: Geometric Properties and Applications",
+      "event": "ICube Laboratory",
+      "date": "2025.02.17",
+      "location": "Strasbourg",
+      "description": ""
+    },
+    {
+      "name": "The Delaunay Property and Locality Results of Plane-Probing Algorithm",
+      "event": "JNIFM 2025: National Days of the GDR IFM",
+      "date": "2025.03.26",
+      "location": "Bordeaux, France",
+      "description": ""
+    },
+    {
+      "name": "A Compact 3D Shape Descriptor Based on the LIP Signature",
+      "event": "Discrete Geometry and Mathematical Morphology Days",
+      "date": "2025.07.09",
+      "location": "Universit\u00e9 Savoie Mont-Blanc, Chamb\u00e9ry (France)",
+      "description": ""
+    }
+  ],
+  "teaching": [],
+  "portfolio": []
+}
