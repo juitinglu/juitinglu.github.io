@@ -91,13 +91,21 @@
   ],
   "skills": [
     {
-      "name": "程式",
-      "keywords": ["Python", "C++", "MySQL", "R", "Java", "$LaTeX$"]
+      "name": "程式語言",
+      "keywords": ["Python", "C++", "R", "Java"]
     },
     {
-      "name": "排版",
+      "name": "資料庫",
+      "keywords": ["MySQL"]
+      },
+    {
+      "name": "文件撰寫與排版",
       "keywords": ["LaTeX", "Markdown"]
     },
+    {
+      "name": "編輯器",
+      "keywords": ["Vim"]
+    }
   ],
   "languages": [
     {
@@ -111,22 +119,28 @@
     {
       "language": "法文",
       "fluency": "DALF檢定C1"
-    }
-  ],
-  "interests": [],
-  "references": [],
-  "publications": [
-    {
-      "name": "A Soft-Robotic Approach to Anthropomorphic Robotic Hand Dexterity",
-      "publisher": "IEEE Access",
-      "releaseDate": "2019-08-02",
-      "website": "https://ieeexplore.ieee.org/document/8786814",
-      "summary": ""
     },
     {
-      "name": "A New Lattice-based Plane-probing Algorithm",
-      "publisher": "Discrete Geometry and Mathematical Morphology",
-      "releaseDate": "2022-08-23",
+      "language": "日文",
+      "fluency": "JLPT檢定N5"
+    }
+  ],
+  "interests": [
+    {
+      "name": "摺紙",
+      "keywords": ["組合式", "Tesselation"]
+    },
+    { 
+      "name": "Kyudo",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "publications": [ 
+    {
+      "name": "A 3D Compact Shape Descriptor based on Largest Intersection and Projection Signature",
+      "publisher": "International Workshop on Combinatorial Image Analysis",
+      "releaseDate": "2025-09-24",
       "website": "https://link.springer.com/chapter/10.1007/978-3-031-19897-7_29",
       "summary": ""
     },
@@ -138,10 +152,17 @@
       "summary": ""
     },
     {
-      "name": "A 3D Compact Shape Descriptor based on Largest Intersection and Projection Signature",
-      "publisher": "International Workshop on Combinatorial Image Analysis",
-      "releaseDate": "2025-09-24",
+      "name": "A New Lattice-based Plane-probing Algorithm",
+      "publisher": "Discrete Geometry and Mathematical Morphology",
+      "releaseDate": "2022-08-23",
       "website": "https://link.springer.com/chapter/10.1007/978-3-031-19897-7_29",
+      "summary": ""
+    },
+    {
+      "name": "A Soft-Robotic Approach to Anthropomorphic Robotic Hand Dexterity",
+      "publisher": "IEEE Access",
+      "releaseDate": "2019-08-02",
+      "website": "https://ieeexplore.ieee.org/document/8786814",
       "summary": ""
     }
   ],

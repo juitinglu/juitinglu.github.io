@@ -171,7 +171,24 @@
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "C++", "R", "Java"]
+    },
+    {
+      "name": "Databases",
+      "keywords": ["MySQL"]
+    },
+    {
+      "name": "Typesetting",
+      "keywords": ["LaTeX", "Markdown"]
+    },
+    {
+      "name": "Editors",
+      "keywords": ["Vim"]
+    }
+  ],
   "languages": [
     {
       "language": "Mandarin Chinese",
@@ -190,20 +207,22 @@
       "fluency": "Elementary proficiency (JLPT N5)"
     }
   ],
-  "interests": [],
-  "references": [],
-  "publications": [
+  "interests": [
     {
-      "name": "A Soft-Robotic Approach to Anthropomorphic Robotic Hand Dexterity",
-      "publisher": "IEEE Access",
-      "releaseDate": "2019-08-02",
-      "website": "https://ieeexplore.ieee.org/document/8786814",
-      "summary": ""
+      "name": "Origami",
+      "keywords": ["Modular origami", "Tesselation"]
     },
+    { 
+      "name": "Kyudo",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "publications": [ 
     {
-      "name": "A New Lattice-based Plane-probing Algorithm",
-      "publisher": "Discrete Geometry and Mathematical Morphology",
-      "releaseDate": "2022-08-23",
+      "name": "A 3D Compact Shape Descriptor based on Largest Intersection and Projection Signature",
+      "publisher": "International Workshop on Combinatorial Image Analysis",
+      "releaseDate": "2025-09-24",
       "website": "https://link.springer.com/chapter/10.1007/978-3-031-19897-7_29",
       "summary": ""
     },
@@ -215,10 +234,17 @@
       "summary": ""
     },
     {
-      "name": "A 3D Compact Shape Descriptor based on Largest Intersection and Projection Signature",
-      "publisher": "International Workshop on Combinatorial Image Analysis",
-      "releaseDate": "2025-09-24",
+      "name": "A New Lattice-based Plane-probing Algorithm",
+      "publisher": "Discrete Geometry and Mathematical Morphology",
+      "releaseDate": "2022-08-23",
       "website": "https://link.springer.com/chapter/10.1007/978-3-031-19897-7_29",
+      "summary": ""
+    },
+    {
+      "name": "A Soft-Robotic Approach to Anthropomorphic Robotic Hand Dexterity",
+      "publisher": "IEEE Access",
+      "releaseDate": "2019-08-02",
+      "website": "https://ieeexplore.ieee.org/document/8786814",
       "summary": ""
     }
   ],

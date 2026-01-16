@@ -252,9 +252,32 @@
 
 /* Interests Styles */
 .cv-interests {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.cv-interest {
+  display: flex;
+  flex-direction: column;
+}
+
+.cv-interest summary {
+  cursor: pointer;
+  list-style: none; /* Removes default triangle */
+  padding: 0;
+}
+
+.cv-interest-name {
+  font-weight: bold;
+}
+
+.cv-interest:hover .cv-interest-name {
+  color: var(--global-link-color); /* Change this to your preferred hover color */
+  transition: color 0.2s ease; /* Makes the color change smooth */
+  cursor: pointer;
 }
 
 .cv-interest h3 {

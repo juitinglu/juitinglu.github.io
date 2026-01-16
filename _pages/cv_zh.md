@@ -18,7 +18,7 @@ redirect_from:
 </p>
 </div>
 
-{% include cv-template.html cv=site.data.cv_zh %}
+{% include cv-template-custom.html cv=site.data.cv_zh %}
 
 <!-- <div class="cv-download-links">
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
